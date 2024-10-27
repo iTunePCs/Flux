@@ -41,4 +41,12 @@ How To Setup Power-Run EZPZ 😍
 
 
 
+
+How To Get GPU Class GUID 🤓
+----------------------------------------------------------------------------------------------
+- Device Manager > Display Adapters > Right Click > Properties > Details > Class GUID > Copy
+
+
+
+
 Thank you for using Flux Tweaking Tool! If you have any suggestions or feedback, feel free to reach out. Happy Tuning Skids! 🤝
