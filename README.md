@@ -1,4 +1,4 @@
-[+] Flux Tweaking Tool 📥
+Flux Tweaking Tool 📥
 ----------------------------------------------------------------------------------------------
 - Welcome to the Flux Tweaking Tool! This free utility is designed to enhance your system's performance and tweak your GPU Settings.
 
@@ -6,7 +6,7 @@
 
 
 
-[+] Features 🐊
+Features 🐊
 ----------------------------------------------------------------------------------------------
 - Boosts System Performance: Optimize your computer's efficiency and speed for a smoother experience.
 
@@ -24,7 +24,7 @@
 
 
 
-[+] Open Source ❗
+Open Source ❗
 ----------------------------------------------------------------------------------------------
 - Flux Tool is fully open source! This means you can inspect, modify, and contribute to the code. Depending on community support and feedback, I plan to update the tool frequently to add more features and improvements.
 
