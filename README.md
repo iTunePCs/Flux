@@ -32,4 +32,13 @@ Open Source ❗
 
 
 
+
+How To Setup Power-Run EZPZ 😍
+----------------------------------------------------------------------------------------------
+- Drag Into Windows Folder > Open Power Run > File > Allow Command Line > Done!
+
+
+
+
+
 Thank you for using Flux Tweaking Tool! If you have any suggestions or feedback, feel free to reach out. Happy Tuning Skids! 🤝
